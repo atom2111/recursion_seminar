@@ -1,0 +1,14 @@
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\bin\Debug\net8.0\recursion_seminar.exe
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\bin\Debug\net8.0\recursion_seminar.deps.json
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\bin\Debug\net8.0\recursion_seminar.runtimeconfig.json
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\bin\Debug\net8.0\recursion_seminar.dll
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\bin\Debug\net8.0\recursion_seminar.pdb
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\recursion_seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\recursion_seminar.AssemblyInfoInputs.cache
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\recursion_seminar.AssemblyInfo.cs
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\recursion_seminar.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\recursion_seminar.dll
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\refint\recursion_seminar.dll
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\recursion_seminar.pdb
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\recursion_seminar.genruntimeconfig.cache
+C:\Users\Anvar\Desktop\recursion_seminar\recursion_seminar\obj\Debug\net8.0\ref\recursion_seminar.dll
